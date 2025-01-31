@@ -7,9 +7,11 @@ coreschema==0.0.4
 cryptography==44.0.0
 defusedxml==0.8.0rc2
 Django==5.1.5
+django-ckeditor-5==0.2.15
 django-constance==4.3.1
 django-cors-headers==4.6.0
 django-filter==24.3
+django-js-asset==3.0.1
 django-model-utils==5.0.0
 django-rest-swagger==2.2.0
 django-versatileimagefield==3.1
@@ -32,6 +34,7 @@ PyJWT==2.10.1
 python-dotenv==1.0.1
 python-magic-bin==0.4.14
 python3-openid==3.2.0
+redis==5.2.1
 requests==2.32.3
 requests-oauthlib==2.0.0
 setuptools==75.8.0
